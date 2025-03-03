@@ -1,6 +1,6 @@
 name = "CCTools_jll"
 uuid = "1e42d1a4-ec21-5f39-ae07-c1fb720fbc4b"
-version = "986.0.0"
+version = "986.0.1"
 
 [deps]
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
