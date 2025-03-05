@@ -30,17 +30,17 @@ src_version = "986.0.0"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:448581aa7e50c6b90a79ea9ec7d842aceebb2970"
+    treehash = "sha1:4f89f75218704d8fb56a57becc1d41c38f76a858"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:b8c945e082542dd7af16743f8705bb1f295ce044942d84b6b83c2766e88944d7"
+        tarball_hash = "sha256:f7153f87500b947013d097f988d93474f9546073205ccb78c4a64f74b6a3874e"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-build_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:2df7e781ff0c2f57a6a746584830a26c4cd8c346"
+    treehash = "sha1:58bf7efa2cd62c437c194cf253f71007d38f3dd5"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:91a7578019a321246f985bdcdc08e8cb0cba6770adb9df18bb992b0bbe30b00d"
+        tarball_hash = "sha256:49e9fccfadb5f9511375885f7cc90dc7e4e5cce721292fce018a86a1d6bba612"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-extract_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
 
     [[builds.products]]
@@ -51,16 +51,20 @@ src_version = "986.0.0"
     name = "lipo"
     type = "executable"
     path = "bin/x86_64-apple-darwin-lipo"
+    [[builds.products]]
+    name = "install_name_tool"
+    type = "executable"
+    path = "bin/x86_64-apple-darwin-install_name_tool"
 
     [[builds.sources]]
     treehash = "sha1:2a3e1c2a6ff54a30f898b70cfb9ba1692a55fad7"
     url = "https://github.com/tpoechtrager/cctools-port"
 
     [builds.artifact]
-    treehash = "sha1:34b6567359e399d6cacac6eaaa7b5b6631687329"
+    treehash = "sha1:250c02ac3fcc9c2f0b32dd1b1ccdcec2b189eec6"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:0e777664b9f90b1b9fb7f184af1cbe417fbe441bd0bcd23b93ec37a755b95a02"
+        tarball_hash = "sha256:bbd9e6774428353fcc395bafa9a5e046fb281f88dfe38d26de0d61e649ac1dab"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
 [[builds]]
 name = "CCTools"
@@ -89,17 +93,17 @@ src_version = "986.0.0"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:71516294e243dbd497a2650601e76009d655391c"
+    treehash = "sha1:d06cde07b98814acd7c10485f306293189d31891"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:351501e60f5bb3a3229d777900a7375f297ea8a88fbd51b3cbf9be4244e4e8fd"
+        tarball_hash = "sha256:ada69a2787475385da3b556e2b2303992cff244bb89d9075e79a417871df302b"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-build_log-v986.0.1-aarch64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:48304021817c5323a39d2394f60241b3d3553a9d"
+    treehash = "sha1:bc188324ed0dc15c180e68094ea90d1e125ef42e"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:95d03025edd55fd0377a2ac8507e015b4db931e8ec0292bb44fcf170adb9f35f"
+        tarball_hash = "sha256:b82a426124436dc52ed442d53a35c3094c02654eee2a3863319b2ca41fd1a19c"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-extract_log-v986.0.1-aarch64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
 
     [[builds.products]]
@@ -110,16 +114,20 @@ src_version = "986.0.0"
     name = "lipo"
     type = "executable"
     path = "bin/x86_64-apple-darwin-lipo"
+    [[builds.products]]
+    name = "install_name_tool"
+    type = "executable"
+    path = "bin/x86_64-apple-darwin-install_name_tool"
 
     [[builds.sources]]
     treehash = "sha1:2a3e1c2a6ff54a30f898b70cfb9ba1692a55fad7"
     url = "https://github.com/tpoechtrager/cctools-port"
 
     [builds.artifact]
-    treehash = "sha1:bc047b6fe3411e74cbc1f6f31bc97e036f3f12a0"
+    treehash = "sha1:d68de0bcd9623b7f136961bb1af46a744b7f8285"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:61d43b4fbfb1ef1d69f066372f9966570322055cab8d77891275d6ffb0571520"
+        tarball_hash = "sha256:89a0a8051a305df47c3d2919e18dc89f95ee2c994a9aff867fe7331625546614"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-v986.0.1-aarch64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
 [[builds]]
 name = "CCTools"
@@ -148,17 +156,17 @@ src_version = "986.0.0"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:47387433be15e3a4f0905ddf00a8dcf952692273"
+    treehash = "sha1:20ce9cde85d2a70a93b2e662a90692ae0bf40798"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:a45eb79fa84be3853e8aadceac31c1843a6a3dbf2fd5d53e62775f54059ec97a"
+        tarball_hash = "sha256:b9f4c787b5bc8f566b0977a7de8e717cbd22a719fc2a08523941addad9cc06dc"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-build_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:ecc458617d458841f3b6daf6590fa7edbf5c5dcd"
+    treehash = "sha1:1d16b44aa2863650092d0e72643ea4b006dd798f"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:7ffbc4ca22d55035281b4ce5f0f6fb8ae85808798d24785a04269077d8e88355"
+        tarball_hash = "sha256:0ae54c95e93020f8af7fd56b3d5a2f8af380a134c7e9f74aba2331a235b72c26"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-extract_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
 
     [[builds.products]]
@@ -169,16 +177,20 @@ src_version = "986.0.0"
     name = "lipo"
     type = "executable"
     path = "bin/aarch64-apple-darwin-lipo"
+    [[builds.products]]
+    name = "install_name_tool"
+    type = "executable"
+    path = "bin/aarch64-apple-darwin-install_name_tool"
 
     [[builds.sources]]
     treehash = "sha1:2a3e1c2a6ff54a30f898b70cfb9ba1692a55fad7"
     url = "https://github.com/tpoechtrager/cctools-port"
 
     [builds.artifact]
-    treehash = "sha1:01bf45b36c3224ae5658a06febd1f302ea7ec003"
+    treehash = "sha1:5b60eeef10547b2660121eae8f74db17e07cd43c"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:a62d1383240953bf8ed149d07998ff0a002dfd7d015ca7929fb5ad380a7f62f3"
+        tarball_hash = "sha256:df2dd2a5f314e480d65f04d0866894a65b3eefdba3e2a32a02e99aaa1ff239b6"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
 [[builds]]
 name = "CCTools"
@@ -207,17 +219,17 @@ src_version = "986.0.0"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:b0c205ebc6573dc8eb79aeb7940dd57a10a82bd4"
+    treehash = "sha1:f89cff66062914e4fa1e10ca72e9d273c515bfc1"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:45ee6731b31cf0c18dfed399efe96b4076468bf28fc2e255f18a81837b58c967"
+        tarball_hash = "sha256:0905e7c524bdf22366155cf40e0dbc92cc1de6ad445eaaaf4e045febda8f20c4"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-build_log-v986.0.1-aarch64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:e3d2cb7265fc40a52311b91def366cbd6a12ff40"
+    treehash = "sha1:8880f0ea79b104b4c599479b44a873daccde6377"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:eb62525f1ecfb556de32e30f11a7f2bea51b1daaba5ae607881589b02ef640f6"
+        tarball_hash = "sha256:35ca80d57c2e2b07beb7731fca3e2a04a706eafddf3b95df5be2ac4bf33298cd"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-extract_log-v986.0.1-aarch64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
 
     [[builds.products]]
@@ -228,14 +240,18 @@ src_version = "986.0.0"
     name = "lipo"
     type = "executable"
     path = "bin/aarch64-apple-darwin-lipo"
+    [[builds.products]]
+    name = "install_name_tool"
+    type = "executable"
+    path = "bin/aarch64-apple-darwin-install_name_tool"
 
     [[builds.sources]]
     treehash = "sha1:2a3e1c2a6ff54a30f898b70cfb9ba1692a55fad7"
     url = "https://github.com/tpoechtrager/cctools-port"
 
     [builds.artifact]
-    treehash = "sha1:9dcc6f476301854755a1febbb0e78d102918ca85"
+    treehash = "sha1:d563ee0ab7a80d9d44dbacf45b1be2d8832e05a5"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:43743d6439401ad2458c36c0c7fa8acfffd9c88d2ed563a0a36fca43d362563d"
+        tarball_hash = "sha256:d7310ed539818a70973920c3d25c332437944e08c6c16c116fc478ffaf5cdf6d"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-v986.0.1-aarch64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
