@@ -8,6 +8,7 @@ For more details about JLL packages and how to use them, see the `BinaryBuilder.
 The binaries for `CCTools` have been built from upstream sources version v986.0.0:
 
  - [https://github.com/tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port) (treehash: sha1:2a3e1c2a6ff54a30f898b70cfb9ba1692a55fad7)
+ - [/home/sabae/src/BB2/bootstrap/CCTools/patches](/home/sabae/src/BB2/bootstrap/CCTools/patches) (treehash: sha1:d03bb0a4e219f83756d44988b13b802f6ba9041c)
 # Platforms
 
 `CCTools` is available for the following platforms:
