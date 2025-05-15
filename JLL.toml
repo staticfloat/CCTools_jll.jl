@@ -30,17 +30,17 @@ src_version = "986.0.0"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:c0e8e0fbac176d8c8ed6fe0270cf9989b7b2f15d"
+    treehash = "sha1:0b847d2aed310f2212deeaee7668e3cbda48c912"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:524d0e847982c3aa0f182f73825e49f4d8b6ea39ef78ea6a7f5552c6f81afe56"
+        tarball_hash = "sha256:65e7cb1c95afad21d0a7d01e3122e3efa31a94ea41ec221eec9c07ac554c194d"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-build_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:2bbd7f93c6b18a1c63c3720e06e08ba6116905bd"
+    treehash = "sha1:db4025f5d3a3f0cabca4281f012862b487d1caef"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:60de02d060c88874df65ab8342f5028e98a84554185a39ead20bbc656bb8609e"
+        tarball_hash = "sha256:9b3ae4b6be6071ba04afc2f6089c35ec4df2337429118c460fcc0639e5291ea7"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-extract_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
 
     [[builds.products]]
@@ -64,10 +64,10 @@ src_version = "986.0.0"
     url = "/home/sabae/src/BB2/bootstrap/CCTools/patches"
 
     [builds.artifact]
-    treehash = "sha1:0515058185bf4e755ea2b988f73b797d29ae033b"
+    treehash = "sha1:1ef0f6b99fd67af047ff5cbf62bf39d2cbe13adf"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:2550890ea2fbaa413e47cb4b8c81fee43a4c2e6c1ddc48f74c801b307d31d8c0"
+        tarball_hash = "sha256:023098786196c21f197ca025d624ceb2f3a9056e004fa7bcdcef329db6ee63a5"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
 [[builds]]
 name = "CCTools"
@@ -96,17 +96,17 @@ src_version = "986.0.0"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:84f5714807fa01889aa3ab45beba91eafd7f1f3f"
+    treehash = "sha1:9a03ba16ad1ea47adae906df89a2cd33eb86fa03"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:c0e1a462198bfb9716df287a4c6b213d2b63ad8b9a2d1a6e743b63dd9c3fdced"
+        tarball_hash = "sha256:7ecb95fa6fcc1580e05b3b9a2b51c0aa4d29339bfa56486c19ad2a9d9591ef27"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-build_log-v986.0.1-aarch64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:e417f680bf1b5dad919a745ce59548efce5cd40a"
+    treehash = "sha1:32601cfc89db5498d40065e61178fe1115785470"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:b55f2462cfd5b0f252605f21d449a3b5dbfaf2f51cd3a277b001676f67253469"
+        tarball_hash = "sha256:1b79f61883836518891b451840f623325f6bd495625495de82a70915093ee11a"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-extract_log-v986.0.1-aarch64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
 
     [[builds.products]]
@@ -130,10 +130,10 @@ src_version = "986.0.0"
     url = "/home/sabae/src/BB2/bootstrap/CCTools/patches"
 
     [builds.artifact]
-    treehash = "sha1:a754b131c1627d826b91d79ef9521665ccbe2b0f"
+    treehash = "sha1:96f2b6f5c440dcd765b243d14e97fd8113ae9774"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:73f6a0536ce55000586c96bb397496502ca783348db644e3dbac47dddac227d6"
+        tarball_hash = "sha256:bf925f714144dba7371546051d9453af38d27471b567b103d46697d578ed13d9"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-v986.0.1-aarch64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
 [[builds]]
 name = "CCTools"
@@ -162,17 +162,17 @@ src_version = "986.0.0"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:cfbeb01b737b41c9bc7c2db159ea3ba2905ecf11"
+    treehash = "sha1:9a286538d377ec74fc764fe46815ba2bfcdbbdd8"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:a2ef5b7c6b6ce4a372ebede720f87ddb7a1a02eeaca240f670c18bfac8353109"
+        tarball_hash = "sha256:1ceda22c4753d42f9b3be5d1d8c0de972d2c20cf6612e34f7b4d9cd2bb93ec3a"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-build_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:cbb5d859a53ec281048b4fe5e1cbbe3e1a99bc3e"
+    treehash = "sha1:159cbdf5a0403edf3514fa668238ffdc34fd0c5f"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:08d3652a13b0265fc40fd022bd1af8e70f92d5a48e6fd0dd0c66f18481202b81"
+        tarball_hash = "sha256:87b89f76b4cac0da6d03209e7568dcabff7e77bea6acded395676c37e0b2a81a"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-extract_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
 
     [[builds.products]]
@@ -196,10 +196,10 @@ src_version = "986.0.0"
     url = "/home/sabae/src/BB2/bootstrap/CCTools/patches"
 
     [builds.artifact]
-    treehash = "sha1:e4bad1bb4f316df051e24d6d7b5b57f69c2b1b5b"
+    treehash = "sha1:ebc973e5f800e46a6635288f47a3d9832b168fec"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:661076b2c767f1eb48f7151ef12208fd8b76194432914aa88c43fae45eb256b6"
+        tarball_hash = "sha256:01dabf7943188f9d45bd8e8004ee769c80f826d60942ab11e54c1991a6f256ae"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
 [[builds]]
 name = "CCTools"
@@ -228,17 +228,17 @@ src_version = "986.0.0"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:944ed22511c0ba4a16f89338f0c0f89002b00d74"
+    treehash = "sha1:c1cdd861fbc13f34f09bb190288bfded53b5d8d2"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:448bc1563fe7b7e15c5769d2aa200e24ba50cad0f7689437c4559c081ccf55eb"
+        tarball_hash = "sha256:36a237f65b1da15b602ffef8d5d628c3bfa8a436bf9bb36b4cdcc485346c623e"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-build_log-v986.0.1-aarch64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:e529a90247f6574ed7021024793bbab2557908ea"
+    treehash = "sha1:c95202f404141ba1a8ded7d4bc786788e6cc8638"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:690b769706cdc7f18203dcc2a3f5cddbacdc8ece2afcc866493be47d9d24efca"
+        tarball_hash = "sha256:9335d7566da00d87426980d04584ab499717a8dbea454d41ba556349ba346f73"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-extract_log-v986.0.1-aarch64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
 
     [[builds.products]]
@@ -262,8 +262,8 @@ src_version = "986.0.0"
     url = "/home/sabae/src/BB2/bootstrap/CCTools/patches"
 
     [builds.artifact]
-    treehash = "sha1:46b57a8a5ad7c9d61792c3834b61e410ee28ea2c"
+    treehash = "sha1:8ee006a13c34af30c1c4c9f80e16d52fd3f5c1c5"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:d56315d9148521d92a26f60244ddfa85c4a52ed4861432b3a9a904a51f0a55b8"
+        tarball_hash = "sha256:4c35da1d57775a14f5e7f325ba510e7c4d1c43bf28740baec9089f5183877d4f"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1/CCTools-v986.0.1-aarch64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
