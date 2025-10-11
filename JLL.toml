@@ -30,17 +30,17 @@ src_version = "986.0.0"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:a43c35a5ddfd29a01c78a667c2396895061e1816"
+    treehash = "sha1:8607b4b130cd59a41438823adcab13ff2f5c2632"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:b3ea500e72c22f251292e1bb50da38bf9c404cf976c06d9003949ee9f0c8b28d"
+        tarball_hash = "sha256:ad7d4c92d8ee5edbb44f4a598ccb1d2d6f14d6b61dcb3e5ff589856f16386f9b"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1-GCCBootstrap-x86_64-linux-gnu/CCTools-build_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:c64b83412f776e6adc2a2158d8b3f3de46756b02"
+    treehash = "sha1:0e4a553f9b3ad129783e4e5eea2aaef0b4b9c2b8"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:f7273418bf9489b133d1270ad023e3a6a902b8a869d2d5eaa70cf7d1cee033b9"
+        tarball_hash = "sha256:852a896095fb78bf9662460630223b8db6f52c3b89e76b84c324e7158fb0a20c"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1-GCCBootstrap-x86_64-linux-gnu/CCTools-extract_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
 
     [[builds.products]]
@@ -64,10 +64,10 @@ src_version = "986.0.0"
     url = "/home/sabae/src/BB2/bootstrap/CCTools/patches"
 
     [builds.artifact]
-    treehash = "sha1:3ca49f828b14ffbc5c002637531245b0c4edc74c"
+    treehash = "sha1:6cbd0212651e42541ef70a9db096ce4b1f160b07"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:dbdee79ab3ebb8640c60de41e5182033d67428455fbd632d446daa381182f673"
+        tarball_hash = "sha256:a6a8c7739ce914f211d2b53f6cbfe2cf63cac676146d98053697bbae79bb84d2"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1-GCCBootstrap-x86_64-linux-gnu/CCTools-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+x86_64.tar.gz"
 [[builds]]
 name = "CCTools"
@@ -96,17 +96,17 @@ src_version = "986.0.0"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:c49491a066940a1543e9eaae5c152a0025a15312"
+    treehash = "sha1:713c69b51cfea7dd206ed7d343d370d9da876070"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:e2650f9c2515b5b5904cef4a41c17f87b64f52a157f11da8cc383f29bf3738f8"
+        tarball_hash = "sha256:9a5638b30fef1c76d1ed994fd481cfc3c2d5534c0d3278b0497507f5f6aa0704"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1-GCCBootstrap-x86_64-linux-gnu/CCTools-build_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:25e1b5e098e82df34595b75f14512d02524b0fdf"
+    treehash = "sha1:a9536a816edf01fbd48e681a8c1bcbf446933b2c"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:62c450a6db3d7600792c3e68c2fd04ecb203e7a5c47885f6437061da69d48a3a"
+        tarball_hash = "sha256:316d830bd57e9593e22b347e30e17e563fec8f0d6f6b512a833e270b34841b54"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1-GCCBootstrap-x86_64-linux-gnu/CCTools-extract_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
 
     [[builds.products]]
@@ -130,8 +130,8 @@ src_version = "986.0.0"
     url = "/home/sabae/src/BB2/bootstrap/CCTools/patches"
 
     [builds.artifact]
-    treehash = "sha1:d1513c2f3010e2d1385fa5b38a83bdeddd84decc"
+    treehash = "sha1:867cb1a3e110e05f79705bdf22c083cb1668a913"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:0419f73b23b66d20ae3690c0b950e6d521672a46385880018c01f52bb1da96cc"
+        tarball_hash = "sha256:b153a68897ed2e724bb5a22e1c6151d3bc63a591fac9e4a7b9a42f8325c63a9a"
         url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1-GCCBootstrap-x86_64-linux-gnu/CCTools-v986.0.1-x86_64-linux-gnu-target_os+macos-target_arch+aarch64.tar.gz"
