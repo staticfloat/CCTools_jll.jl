@@ -1,6 +1,6 @@
 [[CCTools]]
-arch = "x86_64"
-git-tree-sha1 = "73f80dc1e23b79b94900cf52f63e85128c819688"
+arch = "aarch64"
+git-tree-sha1 = "e8e635e327c449c17a58e2b347e239b896d011dc"
 libc = "glibc"
 os = "linux"
 target_arch = "aarch64"
@@ -8,11 +8,35 @@ target_os = "macos"
 target_os_version = "20.0.0"
 
     [[CCTools.download]]
-    sha256 = "a29ada15b8a53aed1d04bc7288ae8d68272a6029b52a3ea29d29dbf8cdb9fcf5"
-    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1-GCCBootstrap-x86_64-linux-gnu/CCTools-v986.0.1-x86_64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+aarch64.tar.gz"
+    sha256 = "fe52d2fc0ba118ffbcea9379b64c264c097315079c5cbe4f4c1f4a6199d6a3c7"
+    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.2-GCCBootstrap-x86_64-linux-gnu/CCTools-v986.0.2-aarch64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+aarch64.tar.gz"
+[[CCTools]]
+arch = "aarch64"
+git-tree-sha1 = "5065eaf3d22ad630795aad399f0aecd6075486fc"
+libc = "glibc"
+os = "linux"
+target_arch = "x86_64"
+target_os = "macos"
+target_os_version = "20.0.0"
+
+    [[CCTools.download]]
+    sha256 = "d8ac0ab4fd6326301e345aebc553dbaa27c8751831d1a5bc5e08fdf5d9f2fd99"
+    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.2-GCCBootstrap-x86_64-linux-gnu/CCTools-v986.0.2-aarch64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+x86_64.tar.gz"
 [[CCTools]]
 arch = "x86_64"
-git-tree-sha1 = "d199b149df4713b77cc7bbb6a5e0547507cd0df3"
+git-tree-sha1 = "5fcb8bcb82a1ff6e79e1a76c3f91c6dede81a868"
+libc = "glibc"
+os = "linux"
+target_arch = "aarch64"
+target_os = "macos"
+target_os_version = "20.0.0"
+
+    [[CCTools.download]]
+    sha256 = "a6d6de4f525a1407ccd5ed4aec3d654b7e2d2fec340c5d4b0fa2185b8cf38f97"
+    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.2-GCCBootstrap-x86_64-linux-gnu/CCTools-v986.0.2-x86_64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+aarch64.tar.gz"
+[[CCTools]]
+arch = "x86_64"
+git-tree-sha1 = "b3607caaf96b3522b324cbec8b7a845c24fd99b0"
 libc = "glibc"
 os = "linux"
 target_arch = "x86_64"
@@ -20,12 +44,12 @@ target_os = "macos"
 target_os_version = "20.0.0"
 
     [[CCTools.download]]
-    sha256 = "edf5c3b0b823c577ea80084ebb13950b1f2e71e018ca59a1b0334e30990f017a"
-    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1-GCCBootstrap-x86_64-linux-gnu/CCTools-v986.0.1-x86_64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+x86_64.tar.gz"
+    sha256 = "92ff50e98f8684c51b1fe4baca9454139fddb115b5828a95de6354668be827c2"
+    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.2-GCCBootstrap-x86_64-linux-gnu/CCTools-v986.0.2-x86_64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+x86_64.tar.gz"
 
 [[CCTools-build_log]]
-arch = "x86_64"
-git-tree-sha1 = "c5f936cb78356288b7cad24930cd3dbdcff094ab"
+arch = "aarch64"
+git-tree-sha1 = "e3944fd802fc10eac33d6bf3f18ec96469f2be8e"
 lazy = true
 libc = "glibc"
 os = "linux"
@@ -34,11 +58,11 @@ target_os = "macos"
 target_os_version = "20.0.0"
 
     [[CCTools-build_log.download]]
-    sha256 = "fa5ad374395b81ed5ebbc47bacf30c9e1379bf982fc346b80902502f3f38f06d"
-    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1-GCCBootstrap-x86_64-linux-gnu/CCTools-build_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+aarch64.tar.gz"
+    sha256 = "203c0d5601e93cd0f1e69e8d0eb16a2ba6d42d33505bb67c7edeb28a8883dee5"
+    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.2-GCCBootstrap-x86_64-linux-gnu/CCTools-build_log-v986.0.2-aarch64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+aarch64.tar.gz"
 [[CCTools-build_log]]
-arch = "x86_64"
-git-tree-sha1 = "c97205fc426cb65ac2fcd780cfe4e873d90dc5e6"
+arch = "aarch64"
+git-tree-sha1 = "f471293f2aef7727cc7e9acc399e1f87c79de5f6"
 lazy = true
 libc = "glibc"
 os = "linux"
@@ -47,12 +71,38 @@ target_os = "macos"
 target_os_version = "20.0.0"
 
     [[CCTools-build_log.download]]
-    sha256 = "d195003f33f89a1d4c1c0b23d4c1007ceed948866754f106d9ce1483455088e4"
-    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1-GCCBootstrap-x86_64-linux-gnu/CCTools-build_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+x86_64.tar.gz"
+    sha256 = "08c8340fa9659abbfa5fa821aee8d3bbacde669b85614c8a476ca7fbe4df4302"
+    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.2-GCCBootstrap-x86_64-linux-gnu/CCTools-build_log-v986.0.2-aarch64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+x86_64.tar.gz"
+[[CCTools-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "51de56c0d13f183251923a5ae5cd762eb5731795"
+lazy = true
+libc = "glibc"
+os = "linux"
+target_arch = "aarch64"
+target_os = "macos"
+target_os_version = "20.0.0"
+
+    [[CCTools-build_log.download]]
+    sha256 = "4e66c2c87510f6ff88f3f6c569c7872b5d4437b1166d32fd19afa7ddca2bd744"
+    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.2-GCCBootstrap-x86_64-linux-gnu/CCTools-build_log-v986.0.2-x86_64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+aarch64.tar.gz"
+[[CCTools-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "694a350e9fbf5a57ba764bc04eaaf489a36b221b"
+lazy = true
+libc = "glibc"
+os = "linux"
+target_arch = "x86_64"
+target_os = "macos"
+target_os_version = "20.0.0"
+
+    [[CCTools-build_log.download]]
+    sha256 = "8898f674b86eca8fc4652ec887be9bf61ba37956cf4b6bd2be4f0a588c35146b"
+    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.2-GCCBootstrap-x86_64-linux-gnu/CCTools-build_log-v986.0.2-x86_64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+x86_64.tar.gz"
 
 [[CCTools-extract_log]]
-arch = "x86_64"
-git-tree-sha1 = "2c2c13367a5e09a915bbf473190433cba3919e39"
+arch = "aarch64"
+git-tree-sha1 = "d0b69eae91616f6ace82afe631ca4b1b3d1f7887"
 lazy = true
 libc = "glibc"
 os = "linux"
@@ -61,11 +111,11 @@ target_os = "macos"
 target_os_version = "20.0.0"
 
     [[CCTools-extract_log.download]]
-    sha256 = "99f748addf39f02ab8c5f1e4077d8078ea8c1435ad9f9065e9fc6f43e74db4ee"
-    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1-GCCBootstrap-x86_64-linux-gnu/CCTools-extract_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+aarch64.tar.gz"
+    sha256 = "fedfdd82be3795bf69661d4f1bd05872eebbeecc05c2e3fb3948d4fe2bc3cfe5"
+    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.2-GCCBootstrap-x86_64-linux-gnu/CCTools-extract_log-v986.0.2-aarch64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+aarch64.tar.gz"
 [[CCTools-extract_log]]
-arch = "x86_64"
-git-tree-sha1 = "c33e701ccfff3e16de2998d766ed4c272a5f8412"
+arch = "aarch64"
+git-tree-sha1 = "94b1a790ef431335b3298b8ae51b66b445851524"
 lazy = true
 libc = "glibc"
 os = "linux"
@@ -74,5 +124,31 @@ target_os = "macos"
 target_os_version = "20.0.0"
 
     [[CCTools-extract_log.download]]
-    sha256 = "2a37094be750ad4d130e04510e44db13040a1a0e185d05c9f58ae9f4171a4787"
-    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.1-GCCBootstrap-x86_64-linux-gnu/CCTools-extract_log-v986.0.1-x86_64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+x86_64.tar.gz"
+    sha256 = "f5229f0afbf77f899cea79dd38b8f0048adee3d0f6ab796699c3d38aa3810e75"
+    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.2-GCCBootstrap-x86_64-linux-gnu/CCTools-extract_log-v986.0.2-aarch64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+x86_64.tar.gz"
+[[CCTools-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "8dcb14afac974a1140c88a334741ee503c1363f4"
+lazy = true
+libc = "glibc"
+os = "linux"
+target_arch = "aarch64"
+target_os = "macos"
+target_os_version = "20.0.0"
+
+    [[CCTools-extract_log.download]]
+    sha256 = "652a38c456465658018c80c4cc4c7808aff97c71a7a464472bb99827b3e5107e"
+    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.2-GCCBootstrap-x86_64-linux-gnu/CCTools-extract_log-v986.0.2-x86_64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+aarch64.tar.gz"
+[[CCTools-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "7de56e5ccbadee3aa27bf48379b5ae2482f0f2f6"
+lazy = true
+libc = "glibc"
+os = "linux"
+target_arch = "x86_64"
+target_os = "macos"
+target_os_version = "20.0.0"
+
+    [[CCTools-extract_log.download]]
+    sha256 = "ebb4849eff51121529a14908a6e2f750bb99281482200f113ac8e6033b22fec2"
+    url = "https://github.com/staticfloat/CCTools_jll.jl/releases/download/v986.0.2-GCCBootstrap-x86_64-linux-gnu/CCTools-extract_log-v986.0.2-x86_64-linux-gnu-target_os+macos-target_os_version+20.0.0-target_arch+x86_64.tar.gz"
